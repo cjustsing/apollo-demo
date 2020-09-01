@@ -1,0 +1,27 @@
+# maven ignore
+target/
+
+# log
+logs/
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.log.*
+*.cache
+*.diff
+*.patch
+*.tmp
+*.lock
+
+# vim swap file ignore
+*.swp
+
+# system ignore
+.DS_Store
+Thumbs.db
